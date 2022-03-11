@@ -1,0 +1,21 @@
+20
+liciteaza 6450 7 4000.00
+liciteaza 3466 1 8000.00
+liciteaza 6450 11 5000.00
+liciteaza 5346 1 2000.00
+liciteaza 3463 1 8000.00
+listbrokerisiclienti
+liciteaza 5346 6 12000.00
+liciteaza 1234 4 4000.00
+liciteaza 1234 1 12000.00
+liciteaza 1234 8 10000.00
+listproducts
+liciteaza 5346 2 10000.00
+liciteaza 5346 5 9000.00
+listlicitatii
+liciteaza 1234 10 7000.00
+listproducts
+liciteaza 3466 6 10000.00
+listclienti
+listadmin
+listproducts

@@ -1,0 +1,12 @@
+11
+listadmin
+liciteaza 7445 5 7000.00
+liciteaza 4577 1 8000.00
+liciteaza 7445 3 6000.00
+liciteaza 7445 2 6000.00
+liciteaza 6874 4 4000.00
+listlicitatii
+liciteaza 4577 4 7000.00
+liciteaza 6874 6 10000.00
+listbrokerisiclienti
+listlicitatiiactive

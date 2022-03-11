@@ -1,0 +1,59 @@
+2781112678940
+10
+1+Popescu Vasile+str. Stefan cel Mare+Persoana_fizica+12.11.2000
+2+Voinea Mihai+bd. Mihai Viteazu+Persoana_fizica+14.01.1989
+3+Kek SRL+str. Al. Ioan Cuza+Persoana_Juridica+SRL+19345.34
+4+Popescu Marcel+str. 21 Mai+Persoana_fizica+19.12.1968
+5+Cretu Mircea+bd. Energerceticienilor+Persoana_fizica+29.05.1975
+6+Cercel Ionut+str. 1 Decembrie+Persoana_fizica+23.07.1970
+7+Ionescu Paul+str. 1 Mai+Persoana_fizica+22.02.1956
+8+MDS SA+str. Mircea cel Batran+Persoana_Juridica+SA+534534.66
+9+Klo SRL+ str. Kiseleff+Persoana_Juridica+SRL+414423.34
+10+Voicu Dana+str. Mihai Eminescu+Persoana_fizica+17.01.1974
+3
+2781112685685
+1781112652352
+2721004654524
+25
+5768+Mumie Egipteana+1000.0+-1200+Mobila+de colectionat+piele si hartie igienica
+5346+Cer inselat+500.0+2012+Tablou+M. Rose+ulei
+2356+Inel diamant+2000.00+2018+Bijuterie+aur alb+da
+7578+Scaun cu spatar+650.00+1990+Mobila+de sezut+lemn
+7647+Inel antic+7800.00+1300+Bijuterie+fier+nu
+3463+Clinchet+660.00+2000+Tablou+R. Clark+tempera
+7457+Copii+6400.00+2005+Tablou+M. Mike+acrilic
+3466+Colier simplu+700.00+2009+Bijuterie+argint+nu
+4577+Vaza mayasa+6300.00+600+Mobila+de colectionat+lut
+3466+Fericire+2300.00+2019+Tablou+K.Lowen+ulei
+7464+Bratara Pandora+6000.00+2020+Bijuterie+aur+nu
+3634+Bratara de picior+70.0+2017+Bijuterie+scoici+nu
+7445+Masa de sufragerie+1200.0+1980+Mobila+uz ocazional+stejar masiv
+3456+Chipuri+3300.0+1978+Tablou+M. Mac+ acrilic
+6874+Noapte de vara+1350.0+2011+Tablou+K.Low+tempera
+7824+Bijuteria Reginei+9600.00+1906+Bijuterie+aur+da
+1334+Perna chinezeasca+6300.00+300+Mobila+de colectionat+lemn
+6466+Noptiera moderna+2900.00+2020+Mobila+uz zilnic+lemn si metal
+4567+Cercei Breakfast at Tiffany's+23000.00+1960+Bijuterie+aur alb+da
+1234+Farmece+3900.00+2009+Tablou+P. House+tempera
+3453+LaLaLa+5678.00+2010+Tablou+P. Vass+ulei
+9484+Tronul din GOT+634634.45+2011+Mobila+de colectie+fier
+4256+Colier cu perle+3463.00+1945+Bijuterie+perle+nu
+6450+Artefact egiptean+7543535.00+-1000+Mobila+de colectie+metale pretioase
+2663+Cercei Pandora+600.99+2018+Bijuterie+argint+da
+10
+1+2+9484+5
+2+3+4577+4
+3+2+7445+5
+4+6+6874+10
+5+3+2663+6
+6+4+2356+4
+7+3+1334+7
+8+2+3453+3
+9+3+3466+9
+10+3+7578+4
+
+
+
+
+
+

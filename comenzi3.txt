@@ -1,0 +1,19 @@
+18
+listproducts
+liciteaza 4256 1 8000.00
+liciteaza 4567 2 5000.00
+liciteaza 4567 19 2000.00
+liciteaza 9484 5 9000.00
+liciteaza 3466 1 8000.00
+listbrokeri
+listlicitatiiactive
+liciteaza 3466 6 12000.00
+liciteaza 1334 4 4000.00
+liciteaza 3466 7 12000.00
+liciteaza 3466 8 10000.00
+liciteaza 2663 1 10000.00
+listlicitatii
+liciteaza 2356 6 10000.00
+listclienti
+listadmin
+listproducts
